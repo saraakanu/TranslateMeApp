@@ -33,8 +33,7 @@ The following **stretch** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-https://youtube.com/shorts/l0Ivkk1UUyQ?feature=share
+https://www.youtube.com/shorts/07RALJY6ZCE
 
 ---
 
